@@ -2,7 +2,6 @@
   "name": "bhineka_tunggal_pixel",
   "version": "1.0.0",
   "description": "Bhineka Tunggal Pixel is a cloning of nft miting apps from ali solanki and daniel eugene botha.",
-  "homepage": "https://dawni103.github.io/bhineka_tunggal_pixel",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
@@ -19,8 +18,6 @@
   "author": "Stephen Dawni, Ali Solanki, Daniel Eugene Botha",
   "license": "MIT",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
@@ -35,8 +32,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
