@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bhineka_tunggal_pixel/static/css/main.9682c50e.chunk.css",
+    "main.js": "/bhineka_tunggal_pixel/static/js/main.9accab00.chunk.js",
+    "main.js.map": "/bhineka_tunggal_pixel/static/js/main.9accab00.chunk.js.map",
+    "runtime-main.js": "/bhineka_tunggal_pixel/static/js/runtime-main.e1093b83.js",
+    "runtime-main.js.map": "/bhineka_tunggal_pixel/static/js/runtime-main.e1093b83.js.map",
+    "static/js/2.c0e3e06a.chunk.js": "/bhineka_tunggal_pixel/static/js/2.c0e3e06a.chunk.js",
+    "static/js/2.c0e3e06a.chunk.js.map": "/bhineka_tunggal_pixel/static/js/2.c0e3e06a.chunk.js.map",
+    "static/js/3.58500ce9.chunk.js": "/bhineka_tunggal_pixel/static/js/3.58500ce9.chunk.js",
+    "static/js/3.58500ce9.chunk.js.map": "/bhineka_tunggal_pixel/static/js/3.58500ce9.chunk.js.map",
+    "index.html": "/bhineka_tunggal_pixel/index.html",
+    "static/css/main.9682c50e.chunk.css.map": "/bhineka_tunggal_pixel/static/css/main.9682c50e.chunk.css.map",
+    "static/js/2.c0e3e06a.chunk.js.LICENSE.txt": "/bhineka_tunggal_pixel/static/js/2.c0e3e06a.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/bhineka_tunggal_pixel/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1093b83.js",
+    "static/js/2.c0e3e06a.chunk.js",
+    "static/css/main.9682c50e.chunk.css",
+    "static/js/main.9accab00.chunk.js"
+  ]
+}
